@@ -144,3 +144,5 @@ compress_html:
   startings: [head, body]
   ignore:
     envs: development
+
+theme: jekyll-theme-cayman
